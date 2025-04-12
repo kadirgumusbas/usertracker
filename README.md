@@ -38,7 +38,7 @@ Bu aşamada **backend geliştirmesi** başarıyla tamamlanmıştır ve aşağıd
 
 ## 📂 Proje Yapısı
 
-bash
+```bash
 usertracker/
 ├── core/
 │   ├── models.py
