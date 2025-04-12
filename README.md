@@ -38,7 +38,7 @@ Bu aşamada **backend geliştirmesi** başarıyla tamamlanmıştır ve aşağıd
 
 ## 📂 Proje Yapısı
 
-```bash
+bash
 usertracker/
 ├── core/
 │   ├── models.py
@@ -70,7 +70,7 @@ python manage.py migrate
 
 Geliştirme sunucusunu başlat:
 python manage.py runserver
-```
+
 🔗 Postman Collection
 Tüm API endpoint'leriyle birlikte hazır olan Postman Collection dosyasını postman/usertracker_collection.json yolundan içe aktararak test edebilirsiniz.
 
