@@ -70,7 +70,7 @@ python manage.py migrate
 
 Geliştirme sunucusunu başlat:
 python manage.py runserver
-
+```
 🔗 Postman Collection
 Tüm API endpoint'leriyle birlikte hazır olan Postman Collection dosyasını postman/usertracker_collection.json yolundan içe aktararak test edebilirsiniz.
 
