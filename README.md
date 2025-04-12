@@ -72,7 +72,7 @@ Geliştirme sunucusunu başlat:
 python manage.py runserver
 
 🔗 Postman Collection
-Tüm API endpoint\'leriyle birlikte hazır olan Postman Collection dosyasını postman/usertracker_collection.json yolundan içe aktararak test edebilirsiniz.
+Tüm API endpointleriyle birlikte hazır olan Postman Collection dosyasını postman/usertracker_collection.json yolundan içe aktararak test edebilirsiniz.
 
 📌 Sonraki Aşama
 Bu backend yapısı, Vue 3 ile geliştirilecek olan Frontend (Aşama 2) ile entegre edilecek ve daha sonra projede tam bir kullanıcı arayüzü ile bütünleştirilecektir.
