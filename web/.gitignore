@@ -1,0 +1,22 @@
+# node
+node_modules/
+
+# Vite veya Webpack build çıktısı
+dist/
+build/
+
+# .env gibi hassas bilgiler
+.env
+.env.*
+
+# log dosyaları
+*.log
+
+# IDE/Editor dosyaları
+.vscode/
+.idea/
+
+# cache
+.cache/
+*.local
+.DS_Store
