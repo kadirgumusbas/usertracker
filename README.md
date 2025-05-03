@@ -94,6 +94,7 @@ npm install
 npm run dev
 ```
 📌 Proje Durumu
+
  Aşama 1 – Backend: Tamamlandı
 
  Aşama 2 – Frontend Tasarımı: Tamamlandı
