@@ -14,27 +14,6 @@ Bu proje, N2Mobil firmasındaki staj sürecimde 3 aşamalı olarak geliştirilen
 | Test / Dokümantasyon | Postman, Git, GitHub |
 | Diğer    | LocalStorage, Component Mimarisi, SPA Router |
 
----
-
-## 🔧 Proje Yapısı
-
-UserTracker/
-├── api/                        # Backend (Aşama 1)
-│   ├── core/
-│   ├── postman/
-│   ├── manage.py
-│   ├── requirements.txt
-│   └── .env
-├── web/                        # Frontend (Aşama 2 & 3)
-│   ├── src/
-│   ├── public/
-│   ├── index.html
-│   └── vite.config.js
-└── README.md                   # Genel Açıklama (bu dosya)
-
-
-
----
 
 ## ✅ Aşama 1 – Backend (Django API)
 
