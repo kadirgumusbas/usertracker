@@ -19,17 +19,19 @@ Bu proje, N2Mobil firmasındaki staj sürecimde 3 aşamalı olarak geliştirilen
 ## 🔧 Proje Yapısı
 
 UserTracker/
-├── api/ # Backend (Aşama 1)
-│ ├── core/
-│ ├── postman/
-│ ├── manage.py
-│ └── requirements.txt
-├── web/ # Frontend (Aşama 2 & 3)
-│ ├── src/
-│ ├── public/
-│ ├── index.html
-│ └── vite.config.js
-└── README.md # Genel Açıklama (bu dosya)
+├── api/                        # Backend (Aşama 1)
+│   ├── core/
+│   ├── postman/
+│   ├── manage.py
+│   ├── requirements.txt
+│   └── .env
+├── web/                        # Frontend (Aşama 2 & 3)
+│   ├── src/
+│   ├── public/
+│   ├── index.html
+│   └── vite.config.js
+└── README.md                   # Genel Açıklama (bu dosya)
+
 
 
 ---
