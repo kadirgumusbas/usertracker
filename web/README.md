@@ -17,7 +17,6 @@ Amaç, Vue 3 ile kullanıcıların gönderileri, yorumları, albümleri ve yapı
 | 💾 localStorage| Kalıcı kullanıcı etkileşimleri (checkbox kayıt vb.) |
 
 ---
-
 ## 📂 Proje Yapısı
 usertracker-frontend/
 ├── src/
@@ -31,7 +30,6 @@ usertracker-frontend/
 ├── index.html
 ├── package.json
 └── README.md # Bu dosya
-
 ---
 
 ## 📌 Öğrenilen ve Uygulanan Kavramlar
