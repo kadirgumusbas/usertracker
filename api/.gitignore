@@ -1,0 +1,22 @@
+# Django dosyaları
+*.pyc
+__pycache__/
+
+# Ortam (venv)
+.venv/
+env/
+
+# Ayarlar / hassas bilgiler
+*.env
+
+# IDE dosyaları
+.vscode/
+.idea/
+
+# Veritabanı
+db.sqlite3
+
+# Postgres local bilgileri dışında bırakılabilir
+
+# Postman export'u hariç
+*.postman_environment.json
