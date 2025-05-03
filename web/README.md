@@ -7,14 +7,14 @@ Amaç, Vue 3 ile kullanıcıların gönderileri, yorumları, albümleri ve yapı
 
 ## 🚀 Kullanılan Teknolojiler ve Yetenekler
 
-| Teknoloji      | Açıklama                                            
-|----------------|-----------------------------------------------------
-| ⚙️ Vue 3       | Modern, reaktif frontend framework                   
-| 🌿 Pinia       | Global state yönetimi (Vuex'in modern alternatifi) 
-| 🔗 Vue Router  | Sayfalar arası yönlendirme (SPA mimarisi)           
-| 🔮 Axios       | API ile veri alışverişi                             
-| 🎨 TailwindCSS | Utility-first modern CSS framework                  
-| 💾 localStorage| Kalıcı kullanıcı etkileşimleri (checkbox kayıt vb.) 
+| Teknoloji      | Açıklama                                            |
+|----------------|-----------------------------------------------------|
+| ⚙️ Vue 3       | Modern, reaktif frontend framework                  | 
+| 🌿 Pinia       | Global state yönetimi (Vuex'in modern alternatifi) |
+| 🔗 Vue Router  | Sayfalar arası yönlendirme (SPA mimarisi)           |
+| 🔮 Axios       | API ile veri alışverişi                             |
+| 🎨 TailwindCSS | Utility-first modern CSS framework                  |
+| 💾 localStorage| Kalıcı kullanıcı etkileşimleri (checkbox kayıt vb.) |
 
 ---
 
@@ -31,8 +31,6 @@ usertracker-frontend/
 ├── index.html
 ├── package.json
 └── README.md # Bu dosya
-
-
 ---
 
 ## 📌 Öğrenilen ve Uygulanan Kavramlar
