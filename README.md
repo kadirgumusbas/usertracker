@@ -106,5 +106,7 @@ Kadir Gümüşbaş
 Stajyer Yazılım Geliştirici @ N2Mobil
 📧 akadirgumusbas@gmail.com
 
+
+
 Staj süresince REST API, Vue 3, Pinia gibi teknolojileri öğrenerek ve gerçek dünya problemleri çözerek yazılım geliştirme deneyimimi ileri taşıdım.
 Mentorüm Uğurcan Usta yönlendirmeleri ile kod kalitesi, okunabilirlik ve proje yapısı konusunda da gelişme kaydettim ✅
