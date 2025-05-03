@@ -17,20 +17,6 @@ Amaç, Vue 3 ile kullanıcıların gönderileri, yorumları, albümleri ve yapı
 | 💾 localStorage| Kalıcı kullanıcı etkileşimleri (checkbox kayıt vb.) |
 
 
-## 📂 Proje Yapısı
-usertracker-frontend/
-├── src/
-│ |── components/ # Reusable bileşenler (Navbar, AlbumCard vs.)
-│ ├── pages/ # Sayfa tabanlı Vue bileşenleri (UserTodos.vue, UserAlbums.vue vs.)
-│ ├── stores/ # Pinia store'lar (todoStore.js)
-│ ├── services/ # API istekleri buradan yönetilir (opsiyonel)
-│ ├── assets/ # CSS, resim ve stil dosyaları
-│ └── App.vue # Ana uygulama bileşeni
-├── public/
-├── index.html
-├── package.json
-└── README.md # Bu dosya
-
 
 ## 📌 Öğrenilen ve Uygulanan Kavramlar
 
