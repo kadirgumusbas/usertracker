@@ -92,17 +92,13 @@ Düzenle
 cd web/
 npm install
 npm run dev
-
+```
 📌 Proje Durumu
  Aşama 1 – Backend: Tamamlandı
 
  Aşama 2 – Frontend Tasarımı: Tamamlandı
 
  Aşama 3 – API Entegrasyonu ve State Yönetimi: Tamamlandı
-
-
-
-
 
 👨‍💻 Geliştirici
 Kadir Gümüşbaş
