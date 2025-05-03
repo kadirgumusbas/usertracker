@@ -20,7 +20,8 @@ Amaç, Vue 3 ile kullanıcıların gönderileri, yorumları, albümleri ve yapı
 ## 📂 Proje Yapısı
 usertracker-frontend/
 ├── src/
-│ ├── components/ # Reusable bileşenler (Navbar, AlbumCard vs.)
+
+│ |── components/ # Reusable bileşenler (Navbar, AlbumCard vs.)
 │ ├── pages/ # Sayfa tabanlı Vue bileşenleri (UserTodos.vue, UserAlbums.vue vs.)
 │ ├── stores/ # Pinia store'lar (todoStore.js)
 │ ├── services/ # API istekleri buradan yönetilir (opsiyonel)
