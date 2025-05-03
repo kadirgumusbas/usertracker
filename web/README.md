@@ -31,6 +31,7 @@ usertracker-frontend/
 ├── index.html
 ├── package.json
 └── README.md # Bu dosya
+
 ---
 
 ## 📌 Öğrenilen ve Uygulanan Kavramlar
