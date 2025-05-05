@@ -2,6 +2,19 @@
 
 Bu proje, N2Mobil firmasındaki staj sürecimde 3 aşamalı olarak geliştirilen **tam kapsamlı bir kullanıcı takip sistemidir**. Kullanıcıların gönderileri, yapılacaklar listesi (Todos), albümleri, fotoğrafları ve yorumları RESTful bir API ile yönetilirken, bu veriler Vue 3 tabanlı modern bir frontend arayüzüyle kullanıcıya sunulmaktadır.
 
+![HomePage](https://github.com/user-attachments/assets/e4feb81a-5fd3-4b7d-83ae-02ea9f216f7c)
+![TodoPage](https://github.com/user-attachments/assets/b1ec857c-ae50-4cfe-8a6c-5b4f9f61bef6)
+![PostPage](https://github.com/user-attachments/assets/925c79dd-48d2-40a5-b3bc-0125e17d30ec)
+![PostCommentPage](https://github.com/user-attachments/assets/3749ad91-a453-4662-a70d-ebd4e64d2a93)
+![AlbumPage](https://github.com/user-attachments/assets/9796c4b0-6d01-41c1-bb23-2e0e9f2e95c2)
+![PhotoPage](https://github.com/user-attachments/assets/6bddc628-3e7f-4c32-8a38-d2f31f9d38d3)
+
+
+
+
+
+
+
 ---
 
 ## 🚀 Genel Teknolojiler
